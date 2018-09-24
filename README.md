@@ -1,4 +1,4 @@
-XPUB swipe
+bip 32 seed swipe
 ---
 
 Built as a weekend hobby project.
